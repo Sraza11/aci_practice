@@ -9,4 +9,7 @@ terraform {
 
 provider "aci" {
   # Configuration options
+  url = "https://192.168.2.148"
+  username = "admin"
+  password = "WWTwwt1!"
 }
